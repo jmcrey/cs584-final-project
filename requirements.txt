@@ -1,0 +1,9 @@
+pytorch
+tensorflow
+transformers
+nltk
+allennlp
+allennlp-models
+spacy
+spacy-transformers
+numpy
