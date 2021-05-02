@@ -7,3 +7,4 @@ allennlp-models
 spacy
 spacy-transformers
 numpy
+datasets
