@@ -1,2 +1,5 @@
 data/*
 models/*.tar.gz
+models/gpt2
+runs/
+wandb/
