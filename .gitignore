@@ -1,4 +1,6 @@
-data/*
+data/*.pt
+data/fever_train.txt
+data/fever_validation.txt
 models/*.tar.gz
 models/gpt2
 runs/
